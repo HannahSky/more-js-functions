@@ -124,7 +124,7 @@ function calcChange(amount){
 // XXXXXX
 // XXXXXX
 // Convert into a drawBox function
-function drawBox(umRows, numCols, boxChar){
+function drawBox(numRows, numCols, boxChar){
     //string to build output
     let output = "";
 
